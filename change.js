@@ -1,2 +1,2 @@
-console.log("change.js file changed");
-console.log("branching test ") ;
+console.log("change.js file chadnmvavlasvlnged");
+console.log("This is a change in change.js"); 
